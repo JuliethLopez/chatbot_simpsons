@@ -4,7 +4,7 @@
 ![stack Overflow](https://github.com/JuliethLopez/chatbot_simpsons/blob/master/Imagenes/simpsons.jpg) 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/JuliethLopez/chatbot_simpsons/blob/master/Imagenes/simpsons.jpg">
+  <img src="https://github.com/JuliethLopez/chatbot_simpsons/blob/master/Imagenes/simpsons.jpg">
 </p>
 
 
