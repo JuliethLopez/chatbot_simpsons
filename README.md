@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://github.com/JuliethLopez/chatbot_simpsons/blob/master/Imagenes/simpsons.jpg"
-  alt="My cool logo">
+  alt=![xataca](https://www.xataka.com/cine-y-tv/simpson-tambien-recuperara-disney-espana-su-formato-original-para-episodios-clasicos)>
 </p>
   
   ![xataca](https://www.xataka.com/cine-y-tv/simpson-tambien-recuperara-disney-espana-su-formato-original-para-episodios-clasicos)
