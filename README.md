@@ -5,7 +5,7 @@
   <img src="https://github.com/JuliethLopez/chatbot_simpsons/blob/master/Imagenes/simpsons.jpg">
 </p>
 <p align="center">
-  [xataca](https://www.xataka.com/cine-y-tv/simpson-tambien-recuperara-disney-espana-su-formato-original-para-episodios-clasicos)
+  ![xataca](https://www.xataka.com/cine-y-tv/simpson-tambien-recuperara-disney-espana-su-formato-original-para-episodios-clasicos)
 </p>
 
 Éste proyecto se desarrolló durante el semestre 2020-1 en la materia Minería de Datos impartida por el profesor Alvaro Mauricio Montenegro en la Universidad Nacional de Colombia. El objetivo fue desarrollar un chatbot que pudiera responder a un usuario con el estilo de los personajes principales de los Simpsons (Homero, Marge, Lisa y Bart) usando las herramientas vistas que pueden ser consultadas en ![Aprendizaje Profundo.](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
