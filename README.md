@@ -2,8 +2,8 @@
 #### Integrantes: Angulo Rincon Juan Andrés, López Castiblanco Julieth Andrea, Niño Torres Jesus David
 
 <p align="center">
-  <img src="https://github.com/JuliethLopez/chatbot_simpsons/blob/master/Imagenes/simpsons.jpg">
-  alt="My cool logo"
+  <img src="https://github.com/JuliethLopez/chatbot_simpsons/blob/master/Imagenes/simpsons.jpg"
+  alt="My cool logo">
 </p>
   
   ![xataca](https://www.xataka.com/cine-y-tv/simpson-tambien-recuperara-disney-espana-su-formato-original-para-episodios-clasicos)
