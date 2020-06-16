@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="https://github.com/JuliethLopez/chatbot_simpsons/blob/master/Imagenes/simpsons.jpg">
+</p>
+<p align="center">
   [xataca](https://www.xataka.com/cine-y-tv/simpson-tambien-recuperara-disney-espana-su-formato-original-para-episodios-clasicos)
 </p>
 
