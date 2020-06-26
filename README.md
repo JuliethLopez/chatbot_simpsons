@@ -12,5 +12,5 @@ El chatbot esta compuesto por dos redes, una que clasifica y otra que genera tex
 Usamos el clasificador para idenficar el estilo al que mas se acerca un usuario con respecto al estilo mismo de los personajes de los Simpsons, para así obtener una respesta mas certera en la red gerenadora de texto.
 
 ## Referencias
-- ![Imagen de los simpsons, xataca](https://www.xataka.com/cine-y-tv/simpson-tambien-recuperara-disney-espana-su-formato-original-para-episodios-clasicos)
+- ![Imagen de los simpsons, xataca.](https://www.xataka.com/cine-y-tv/simpson-tambien-recuperara-disney-espana-su-formato-original-para-episodios-clasicos)
 - ![Aprendizaje Profundo.](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
