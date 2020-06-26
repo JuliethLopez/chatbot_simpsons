@@ -13,4 +13,4 @@ Usamos el clasificador para idenficar el estilo al que mas se acerca un usuario 
 
 ## Referencias
 - ![Imagen de los simpsons, xataca](https://www.xataka.com/cine-y-tv/simpson-tambien-recuperara-disney-espana-su-formato-original-para-episodios-clasicos)
-
+- ![Aprendizaje Profundo.](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
